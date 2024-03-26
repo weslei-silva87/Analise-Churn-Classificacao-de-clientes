@@ -1,4 +1,4 @@
-# Classificacao-de-clientes-com-maior-risco-de-churn
+# Analise Churn Classificacao de clientes
 O projeto teve início com a análise de uma crescente taxa de rotatividade de clientes, ou churn, em um banco. O objetivo principal foi compreender as razões subjacentes à saída dos clientes e desenvolver estratégias para reduzir essa rotatividade. Para isso, foi adotada uma abordagem baseada em análise de dados e machine learning. 
 
 Inicialmente, exploramos um conjunto de dados detalhado contendo informações sobre os clientes e suas interações com o banco. Realizamos uma análise exploratória para compreender melhor o perfil dos clientes, identificar padrões e tendências, e destacar possíveis indicadores de churn. 
